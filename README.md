@@ -1,4 +1,4 @@
-### Telegram-Adder-Scraper-Members-NEW-FREE-2024
+### Telegram Adder Scraper 2024
 ## Multi-Tool Project For Telegram
 This tool is to scrape members from targeted groups and to add them into your own group.
 # Version 1.697
